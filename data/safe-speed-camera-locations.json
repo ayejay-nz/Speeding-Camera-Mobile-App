@@ -1,0 +1,386 @@
+[
+    {
+        "Region": "NORTHLAND",
+        "Street": "Twin Coast Discovery Highway",
+        "Locality": "Kaiwaka",
+        "StartCoordinates": "-36.170245,174.447012",
+        "EndCoordinates": "-36.190333,174.450727",
+        "GoLiveDate": "August 2018"
+    },
+    {
+        "Region": "NORTHLAND",
+        "Street": "Great North Road",
+        "Locality": "Kamo",
+        "StartCoordinates": "-35.649532, 174.295668",
+        "EndCoordinates": "-35.660956, 174.293687",
+        "GoLiveDate": "January 2018"
+    },
+    {
+        "Region": "WAITEMATA",
+        "Street": "West Coast Road",
+        "Locality": "Glen Eden",
+        "StartCoordinates": "-36.909258, 174.634322",
+        "EndCoordinates": "-36.908515, 174.642780",
+        "GoLiveDate": "November 2015"
+    },
+    {
+        "Region": "WAITEMATA",
+        "Street": "Candia Road",
+        "Locality": "Henderson Valley",
+        "StartCoordinates": "-36.897066, 174.596018",
+        "EndCoordinates": "-36.868174, 174.589258",
+        "GoLiveDate": "August 2015"
+    },
+    {
+        "Region": "WAITEMATA",
+        "Street": "Great North Road",
+        "Locality": "Kelston*",
+        "StartCoordinates": "-36.908900, 174.666421",
+        "EndCoordinates": "-36.909201, 174.672753",
+        "GoLiveDate": "March 2015"
+    },
+    {
+        "Region": "WAITEMATA",
+        "Street": "Old North Road",
+        "Locality": "Kumeu",
+        "StartCoordinates": "-36.776609,174.576509",
+        "EndCoordinates": "-36.787316,174.576956",
+        "GoLiveDate": "June 2017"
+    },
+    {
+        "Region": "WAITEMATA",
+        "Street": "Coatesville-Riverhead Highway",
+        "Locality": "Coatesville",
+        "StartCoordinates": "-36.734270, 174.623297",
+        "EndCoordinates": "-36.740262, 174.621261",
+        "GoLiveDate": "July 2018"
+    },
+    {
+        "Region": "WAITEMATA",
+        "Street": "State Highway 1",
+        "Locality": "Wellsford",
+        "StartCoordinates": "-36.329138, 174.546518",
+        "EndCoordinates": "-36.303463, 174.527110",
+        "GoLiveDate": "June 2018"
+    },
+    {
+        "Region": "WAITEMATA",
+        "Street": "State Highway 17",
+        "Locality": "Albany Heights",
+        "StartCoordinates": "-36.714135, 174.674193",
+        "EndCoordinates": "-36.721391, 174.688924",
+        "GoLiveDate": "June 2018"
+    },
+    {
+        "Region": "WAITEMATA",
+        "Street": "Great North Road",
+        "Locality": "Henderson",
+        "StartCoordinates": "-36.879606, 174.635283",
+        "EndCoordinates": "-36.881554, 174.639746",
+        "GoLiveDate": "August 2018"
+    },
+    {
+        "Region": "WAITEMATA",
+        "Street": "Twin Coast Discovery Highway",
+        "Locality": "Dome Valley",
+        "StartCoordinates": "-36.359092, 174.603529",
+        "EndCoordinates": "-36.348726, 174.590635",
+        "GoLiveDate": "June 2018"
+    },
+    {
+        "Region": "WAITEMATA",
+        "Street": "Rata Street",
+        "Locality": "New Lynn",
+        "StartCoordinates": "-36.906690, 174.678493",
+        "EndCoordinates": "-36.903267, 174.681476",
+        "GoLiveDate": "March 2018"
+    },
+    {
+        "Region": "WAITEMATA",
+        "Street": "East Coast Road",
+        "Locality": "Redvale",
+        "StartCoordinates": "-36.697902, 174.717437",
+        "EndCoordinates": "-36.688736, 174.705979",
+        "GoLiveDate": "December 2017"
+    },
+    {
+        "Region": "AUCKLAND CITY",
+        "Street": "Ngapipi Road",
+        "Locality": "Orakei",
+        "StartCoordinates": "-36.856688,174.810312",
+        "EndCoordinates": "-36.852601,174.805502",
+        "GoLiveDate": "February 2017"
+    },
+    {
+        "Region": "AUCKLAND CITY",
+        "Street": "Tamaki Drive",
+        "Locality": "Parnell",
+        "StartCoordinates": "-36.847683, 174.787710",
+        "EndCoordinates": "-36.852929, 174.805641",
+        "GoLiveDate": "March 2018"
+    },
+    {
+        "Region": "AUCKLAND CITY",
+        "Street": "Hillsborough Road",
+        "Locality": "Hillsborough",
+        "StartCoordinates": "-36.922161, 174.754243",
+        "EndCoordinates": "-36.924856, 174.752129",
+        "GoLiveDate": "March 2018"
+    },
+    {
+        "Region": "AUCKLAND CITY",
+        "Street": "Great North Road",
+        "Locality": "Grey Lynn",
+        "StartCoordinates": "-36.866494, 174.738467",
+        "EndCoordinates": "-36.866773, 174.740170",
+        "GoLiveDate": "April 2018"
+    },
+    {
+        "Region": "COUNTIES MANUKAU",
+        "Street": "Great South Road",
+        "Locality": "Otahuhu*",
+        "StartCoordinates": "-36.957346, 174.852735",
+        "EndCoordinates": "-36.953253, 174.846740",
+        "GoLiveDate": "February 2015"
+    },
+    {
+        "Region": "COUNTIES MANUKAU",
+        "Street": "Mill Road",
+        "Locality": "Totara Park",
+        "StartCoordinates": "-36.995929, 174.922528",
+        "EndCoordinates": "-37.010572, 174.935420",
+        "GoLiveDate": "December 2014"
+    },
+    {
+        "Region": "COUNTIES MANUKAU",
+        "Street": "Murphys Road",
+        "Locality": "Totara Park",
+        "StartCoordinates": "-36.989559, 174.915508",
+        "EndCoordinates": "-36.967326, 174.924771",
+        "GoLiveDate": "December 2014"
+    },
+    {
+        "Region": "COUNTIES MANUKAU",
+        "Street": "Mahia Road",
+        "Locality": "Wattle Downs",
+        "StartCoordinates": "-37.038140, 174.888030",
+        "EndCoordinates": "-37.039674, 174.883694",
+        "GoLiveDate": "March 2018"
+    },
+    {
+        "Region": "COUNTIES MANUKAU",
+        "Street": "Massey Road",
+        "Locality": "Mangere",
+        "StartCoordinates": "-36.976446, 174.800710",
+        "EndCoordinates": "-36.977587, 174.804097",
+        "GoLiveDate": "April 2018"
+    },
+    {
+        "Region": "COUNTIES MANUKAU",
+        "Street": "Waiuku Road",
+        "Locality": "Mauku",
+        "StartCoordinates": "-37.214831, 174.797426",
+        "EndCoordinates": "-37.219555, 174.780204",
+        "GoLiveDate": "January 2018"
+    },
+    {
+        "Region": "COUNTIES MANUKAU",
+        "Street": "Glenbrook Road",
+        "Locality": "Kingseat",
+        "StartCoordinates": "-37.171918, 174.797638",
+        "EndCoordinates": "-37.176456, 174.785253",
+        "GoLiveDate": "April 2018"
+    },
+    {
+        "Region": "COUNTIES MANUKAU",
+        "Street": "Awhitu Road",
+        "Locality": "Karioitahi",
+        "StartCoordinates": "-37.226418, 174.700419",
+        "EndCoordinates": "-37.231488, 174.702240",
+        "GoLiveDate": "January 2018"
+    },
+    {
+        "Region": "WAIKATO",
+        "Street": "State Highway 2",
+        "Locality": "Maramarua",
+        "StartCoordinates": "-37.253839, 175.239172",
+        "EndCoordinates": "-37.247991, 175.188740",
+        "GoLiveDate": "January 2018"
+    },
+    {
+        "Region": "WAIKATO",
+        "Street": "State Highway 2",
+        "Locality": "Waikino",
+        "StartCoordinates": "-37.413266, 175.778624",
+        "EndCoordinates": "-37.412610, 175.771779",
+        "GoLiveDate": "April 2018"
+    },
+    {
+        "Region": "WAIKATO",
+        "Street": "Main Road",
+        "Locality": "Raglan",
+        "StartCoordinates": "-37.833740, 174.917244",
+        "EndCoordinates": "-37.834374, 174.940296",
+        "GoLiveDate": "April 2018"
+    },
+    {
+        "Region": "WAIKATO",
+        "Street": "State Highway 29",
+        "Locality": "Te Poi",
+        "StartCoordinates": "-37.879988, 175.892010",
+        "EndCoordinates": "-37.882796, 175.902924",
+        "GoLiveDate": "May 2018"
+    },
+    {
+        "Region": "WAIKATO",
+        "Street": "Otorohanga Road",
+        "Locality": "Otorohanga",
+        "StartCoordinates": "-38.160194, 175.272309",
+        "EndCoordinates": "-38.177086, 175.246914",
+        "GoLiveDate": "June 2018"
+    },
+    {
+        "Region": "WAIKATO",
+        "Street": "State Highway 2",
+        "Locality": "Waihi",
+        "StartCoordinates": "-37.402826, 175.812433",
+        "EndCoordinates": "-37.400593, 175.823130",
+        "GoLiveDate": "July 2018"
+    },
+    {
+        "Region": "WAIKATO",
+        "Street": "Te Awamutu Cambridge Road",
+        "Locality": "Cambridge",
+        "StartCoordinates": "-37.924079, 175.434617",
+        "EndCoordinates": "-37.932778, 175.429719",
+        "GoLiveDate": "June 2018"
+    },
+    {
+        "Region": "BAY OF PLENTY",
+        "Street": "State Highway 2",
+        "Locality": "Pukehina",
+        "StartCoordinates": "-37.834581, 176.593268",
+        "EndCoordinates": "-37.835581, 176.600478",
+        "GoLiveDate": "June 2018"
+    },
+    {
+        "Region": "CENTRAL",
+        "Street": "State Highway 3",
+        "Locality": "Mokoia",
+        "StartCoordinates": "-39.626946, 174.369921",
+        "EndCoordinates": "-39.631213, 174.377168",
+        "GoLiveDate": "June 2018"
+    },
+    {
+        "Region": "CENTRAL",
+        "Street": "State Highway 56",
+        "Locality": "Tiakitahuna",
+        "StartCoordinates": "-40.402760, 175.500140",
+        "EndCoordinates": "-40.408200, 175.488532",
+        "GoLiveDate": "November 2018"
+    },
+    {
+        "Region": "WELLINGTON",
+        "Street": "State Highway 1",
+        "Locality": "Ngauranga*",
+        "StartCoordinates": "-41.231780, 174.809850",
+        "EndCoordinates": "-41.242505, 174.813068",
+        "GoLiveDate": "July 2014"
+    },
+    {
+        "Region": "WELLINGTON",
+        "Street": "Wainuiomata Road",
+        "Locality": "Wainuiomata",
+        "StartCoordinates": "-41.230198, 174.91905",
+        "EndCoordinates": "-41.253402, 174.928128",
+        "GoLiveDate": "October 2014"
+    },
+    {
+        "Region": "WELLINGTON",
+        "Street": "Whitford Brown Avenue",
+        "Locality": "Aotea",
+        "StartCoordinates": "-41.121885, 174.854932",
+        "EndCoordinates": "-41.121319, 174.866798",
+        "GoLiveDate": "October 2014"
+    },
+    {
+        "Region": "WELLINGTON",
+        "Street": "State Highway 1",
+        "Locality": "Thorndon*",
+        "StartCoordinates": "-41.273876, 174.779398",
+        "EndCoordinates": "-41.287117, 174.771724",
+        "GoLiveDate": "November 2014"
+    },
+    {
+        "Region": "WELLINGTON",
+        "Street": "Wainui Road",
+        "Locality": "Waiwhetu",
+        "StartCoordinates": "-41.227782, 174.915852",
+        "EndCoordinates": "-41.228977, 174.917965",
+        "GoLiveDate": "October 2014"
+    },
+    {
+        "Region": "WELLINGTON",
+        "Street": "Hutt Road",
+        "Locality": "Korokoro",
+        "StartCoordinates": "-41.226858, 174.850459",
+        "EndCoordinates": "-41.223824, 174.859986",
+        "GoLiveDate": "December 2014"
+    },
+    {
+        "Region": "SOUTH ISLAND CANTERBURY",
+        "Street": "State Highway 1",
+        "Locality": "Temuka",
+        "StartCoordinates": "-44.256131, 171.274527",
+        "EndCoordinates": "-44.258896, 171.272488",
+        "GoLiveDate": "May 2018"
+    },
+    {
+        "Region": "SOUTH ISLAND CANTERBURY",
+        "Street": "Leeston Road",
+        "Locality": "Springston",
+        "StartCoordinates": "-43.643211, 172.426578",
+        "EndCoordinates": "-43.661453, 172.419255",
+        "GoLiveDate": "April 2018"
+    },
+    {
+        "Region": "SOUTHERN",
+        "Street": "Dunedin Southern Motorway",
+        "Locality": "Burnside",
+        "StartCoordinates": "-45.901681, 170.438882",
+        "EndCoordinates": "-45.900118, 170.455011",
+        "GoLiveDate": "March 2018"
+    },
+    {
+        "Region": "SOUTHERN",
+        "Street": "King Edward Street",
+        "Locality": "South Dunedin",
+        "StartCoordinates": "-45.890143, 170.495810",
+        "EndCoordinates": "-45.891849, 170.497246",
+        "GoLiveDate": "March 2018"
+    },
+    {
+        "Region": "SOUTHERN",
+        "Street": "Otatara Road",
+        "Locality": "New River Ferry",
+        "StartCoordinates": "-46.396552, 168.301982",
+        "EndCoordinates": "-46.406937, 168.293665",
+        "GoLiveDate": "March 2018"
+    },
+    {
+        "Region": "SOUTHERN",
+        "Street": "Maclaggan Street",
+        "Locality": "Dunedin Central",
+        "StartCoordinates": "-45.878631, 170.495084",
+        "EndCoordinates": "-45.877155, 170.499925",
+        "GoLiveDate": "March 2018"
+    },
+    {
+        "Region": "SOUTHERN",
+        "Street": "Wansbeck Street",
+        "Locality": "Oamaru",
+        "StartCoordinates": "-45.102626, 170.955619",
+        "EndCoordinates": "-45.101622, 170.949713",
+        "GoLiveDate": "March 2018"
+    }
+]

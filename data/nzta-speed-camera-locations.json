@@ -1,0 +1,106 @@
+[
+    {
+        "Region": "AUCKLAND CITY",
+        "Street": "State Highway 20",
+        "Locality": "Waterview Tunnel",
+        "StartCoordinates": "-36.900611,174.717080",
+        "EndCoordinates": "-36.874504,174.703219",
+        "GoLiveDate": ""
+    },
+    {
+        "Region": "AUCKLAND CITY",
+        "Street": "State Highway 20",
+        "Locality": "Waterview Tunnel",
+        "StartCoordinates": "-36.900611,174.717080",
+        "EndCoordinates": "-36.874496,174.703547",
+        "GoLiveDate": ""
+    },
+    {
+        "Region": "AUCKLAND CITY",
+        "Street": "State Highway 20",
+        "Locality": "Waterview Tunnel",
+        "StartCoordinates": "-36.873429,174.704342",
+        "EndCoordinates": "-36.900492,174.717143",
+        "GoLiveDate": ""
+    },
+    {
+        "Region": "AUCKLAND CITY",
+        "Street": "State Highway 20",
+        "Locality": "Waterview Tunnel",
+        "StartCoordinates": "-36.873569,174.703956",
+        "EndCoordinates": "-36.900492,174.717143",
+        "GoLiveDate": ""
+    },
+    {
+        "Region": "AUCKLAND",
+        "Street": "Dairy Flat Highway",
+        "Locality": "Dairy Flat",
+        "StartCoordinates": "-36.631517,174.654686",
+        "EndCoordinates": "-36.628422,174.657078",
+        "GoLiveDate": ""
+    },    
+    {
+        "Region": "AUCKLAND",
+        "Street": "Waitakere Road",
+        "Locality": "Taupaki",
+        "StartCoordinates": "-36.847006,174.543978",
+        "EndCoordinates": "-36.844336,174.545333",
+        "GoLiveDate": ""
+    },    
+    {
+        "Region": "AUCKLAND",
+        "Street": "Papakura-Clevedon Road",
+        "Locality": "Ardmore",
+        "StartCoordinates": "-37.042146,174.978862",
+        "EndCoordinates": "-37.044698,174.976963",
+        "GoLiveDate": ""
+    },    
+    {
+        "Region": "AUCKLAND",
+        "Street": "Linwood Road",
+        "Locality": "Karaka",
+        "StartCoordinates": "-37.107780,174.849619",
+        "EndCoordinates": "-37.106612,174.852693",
+        "GoLiveDate": ""
+    },    
+    {
+        "Region": "AUCKLAND",
+        "Street": "Mill Road",
+        "Locality": "Pukekohe East",
+        "StartCoordinates": "-37.193933,174.976490",
+        "EndCoordinates": "-37.194796,174.973185",
+        "GoLiveDate": ""
+    },    
+    {
+        "Region": "AUCKLAND",
+        "Street": "McKenzie Road",
+        "Locality": "Kingseat",
+        "StartCoordinates": "-36.957737,174.789292",
+        "EndCoordinates": "-36.959782,174.788337",
+        "GoLiveDate": ""
+    },    
+    {
+        "Region": "AUCKLAND",
+        "Street": "Ostrich Road",
+        "Locality": "Franklin",
+        "StartCoordinates": "-37.176407,174.883165",
+        "EndCoordinates": "-37.172174,174.882402",
+        "GoLiveDate": ""
+    },    
+    {
+        "Region": "AUCKLAND",
+        "Street": "Glenbrook-Waiuku Road",
+        "Locality": "Waiuku",
+        "StartCoordinates": "-37.229160,174.749871",
+        "EndCoordinates": "-37.222104,174.747908",
+        "GoLiveDate": ""
+    },    
+    {
+        "Region": "AUCKLAND",
+        "Street": "Waiuku Road",
+        "Locality": "Waiuku",
+        "StartCoordinates": "-37.250009,174.761589",
+        "EndCoordinates": "-37.248549,174.765333",
+        "GoLiveDate": ""
+    }
+]
