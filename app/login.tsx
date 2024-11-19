@@ -107,13 +107,14 @@ const styles = StyleSheet.create({
         borderColor: '#e1e1e1',
         borderRadius: 8,
         borderWidth: 1,
-        justifyContent: 'center'
+        justifyContent: 'center',
     },
     oauthLogo: {
         aspectRatio: 1,
         height: 35,
         marginHorizontal: 35,
         resizeMode: 'contain',
+        width: 'auto',
     },
     forgotPassword: {
         color: '#888',
