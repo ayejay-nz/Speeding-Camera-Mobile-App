@@ -18,6 +18,10 @@ export default function HomeScreen() {
 					title='Login'
 					onPress={() => {router.push('/login')}}
 				/>
+				<Button
+					title='Register'
+					onPress={() => {router.push('/register')}}
+				/>
 			</View>
 		);
 	}
