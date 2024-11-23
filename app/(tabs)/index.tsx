@@ -3,7 +3,7 @@ import { StyleSheet, View, Text, Button } from 'react-native';
 
 const loggedIn = false;
 
-export default function HomeScreen() {
+const HomeScreen = () => {
 	if (loggedIn) {
 		return (
 			<View style={styles.container}>
@@ -30,6 +30,8 @@ export default function HomeScreen() {
 		);
 	}
 }
+
+export default HomeScreen;
 
 const styles = StyleSheet.create({
 	container: {
