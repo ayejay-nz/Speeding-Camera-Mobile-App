@@ -3,7 +3,7 @@ import React from 'react'
 import { router } from 'expo-router'
 import { LinearGradient } from 'expo-linear-gradient';
 
-const entry = () => {
+const EntryScreen = () => {
     return (
         <View style={styles.container}>
             <View style={styles.backgroundContainer}>
@@ -29,7 +29,7 @@ const entry = () => {
     )
 }
 
-export default entry;
+export default EntryScreen;
 
 const styles = StyleSheet.create({
     container: {
