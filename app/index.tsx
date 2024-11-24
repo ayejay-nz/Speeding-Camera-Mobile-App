@@ -1,4 +1,4 @@
-import EntryScreen from './entry';
+import EntryScreen from './(entry)/entry';
 
 const HomeScreen = () => {
 	const loggedIn = false;

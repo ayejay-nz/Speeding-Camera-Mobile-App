@@ -31,12 +31,9 @@ export default function RootLayout() {
   return (
     // <ThemeProvider value={colorScheme === 'dark' ? DarkTheme : DefaultTheme}>
     <ThemeProvider value={DefaultTheme}>
-      <Stack>
-        <Stack.Screen name="index" options={{ headerShown: false, animationTypeForReplace: 'push', animation: 'slide_from_left'  }} />
-        <Stack.Screen name="login" options={{ headerShown: false }} />
-        <Stack.Screen name="register" options={{ headerShown: false }} />
-        <Stack.Screen name="entry" options={{ headerShown: false }} />
-        <Stack.Screen name="forgotpassword" options={{ headerShown: false }} />
+      <Stack screenOptions={{ headerShown: false }}>
+        <Stack.Screen name="index" options={{ animationTypeForReplace: 'push', animation: 'slide_from_left'  }} />
+        <Stack.Screen name="(entry)" />
         <Stack.Screen name="+not-found" />
       </Stack>
       <StatusBar style="auto" />

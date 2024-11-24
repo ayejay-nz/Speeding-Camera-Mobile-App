@@ -14,14 +14,14 @@ const EntryScreen = () => {
                 >
                     <Text style={styles.header}>App Name</Text>
                 </LinearGradient>
-                <Image style={styles.backgroundImage} source={require('../assets/images/background_image_1.jpeg')} />
+                <Image style={styles.backgroundImage} source={require('../../assets/images/background_image_1.jpeg')} />
             </View>
 
             <View style={styles.buttons}>
-                <Pressable style={styles.loginButton} onPress={() => {router.push('/login')}}>
+                <Pressable style={styles.loginButton} onPress={() => {router.push('./login')}}>
                     <Text style={styles.loginButtonText}>Login</Text>
                 </Pressable>
-                <Pressable style={styles.registerButton} onPress={() => {router.push('/register')}}>
+                <Pressable style={styles.registerButton} onPress={() => {router.push('./register')}}>
                     <Text style={styles.registerButtonText}>Register</Text>
                 </Pressable>
             </View>

@@ -1,4 +1,4 @@
-import { View, Text, StyleSheet, TextInput, Pressable } from 'react-native'
+import { View, Text, StyleSheet, TextInput, Pressable, ScrollView } from 'react-native'
 import React, { useState } from 'react'
 import Entypo from '@expo/vector-icons/Entypo';
 import { router } from 'expo-router';
@@ -8,7 +8,7 @@ const forgotpassword = () => {
 
     return (
         <View style={styles.container}>
-            <Pressable style={styles.backButton} onPress={() => {router.push('/login')}}>
+            <Pressable style={styles.backButton} onPress={() => {router.push('./login')}}>
                 <Entypo size={30} name='chevron-small-left' color={'#31374a'} />
             </Pressable>
             
@@ -24,7 +24,7 @@ const forgotpassword = () => {
                         placeholderTextColor='#777' 
                         style={[styles.input, {paddingLeft: 15}]} 
                         value={email} 
-                        />
+                    />
                     <Pressable style={styles.button}>
                         <Text style={styles.buttonText}>Send Recovery Email</Text>
                     </Pressable>

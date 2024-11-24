@@ -101,20 +101,20 @@ const register = () => {
 
                 <View style={styles.oauth}>
                     <Pressable style={styles.oauthMethod}>
-                        <Image style={styles.oauthLogo} source={require('../assets/images/facebook_logo.png')} />
+                        <Image style={styles.oauthLogo} source={require('../../assets/images/facebook_logo.png')} />
                     </Pressable>                    
                     <Pressable style={styles.oauthMethod}>
-                        <Image style={styles.oauthLogo} source={require('../assets/images/apple_logo.png')} />
+                        <Image style={styles.oauthLogo} source={require('../../assets/images/apple_logo.png')} />
                     </Pressable>                    
                     <Pressable style={styles.oauthMethod}>
-                        <Image style={styles.oauthLogo} source={require('../assets/images/google_logo.png')} />
+                        <Image style={styles.oauthLogo} source={require('../../assets/images/google_logo.png')} />
                     </Pressable>
                 </View>
             </View>
 
             <View style={styles.loginBlock}>
                 <Text style={styles.text}>Already have an account?
-                    <Text style={styles.login} onPress={() => {router.push('/login')}}> Login Here</Text>
+                    <Text style={styles.login} onPress={() => {router.push('./login')}}> Login Here</Text>
                 </Text>
             </View>
         </View>

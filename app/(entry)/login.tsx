@@ -51,7 +51,7 @@ const login = () => {
                     />
                 </View>
 
-                <Text style={styles.forgotPassword} onPress={() => router.push('/forgotpassword')}>Forgot Password?</Text>
+                <Text style={styles.forgotPassword} onPress={() => router.push('./forgotpassword')}>Forgot Password?</Text>
 
                 <Pressable style={styles.button} onPress={() => {router.push('/')}}>
                     <Text style={styles.buttonText}>Login</Text>
@@ -67,20 +67,20 @@ const login = () => {
 
                 <View style={styles.oauth}>
                     <Pressable style={styles.oauthMethod}>
-                        <Image style={styles.oauthLogo} source={require('../assets/images/facebook_logo.png')} />
+                        <Image style={styles.oauthLogo} source={require('../../assets/images/facebook_logo.png')} />
                     </Pressable>                    
                     <Pressable style={styles.oauthMethod}>
-                        <Image style={styles.oauthLogo} source={require('../assets/images/apple_logo.png')} />
+                        <Image style={styles.oauthLogo} source={require('../../assets/images/apple_logo.png')} />
                     </Pressable>                    
                     <Pressable style={styles.oauthMethod}>
-                        <Image style={styles.oauthLogo} source={require('../assets/images/google_logo.png')} />
+                        <Image style={styles.oauthLogo} source={require('../../assets/images/google_logo.png')} />
                     </Pressable>
                 </View>
             </View>
 
             <View style={styles.registerBlock}>
                 <Text style={styles.text}>Don't have an account? 
-                    <Text style={styles.register} onPress={() => {router.push('/register')}}> Register Now</Text>
+                    <Text style={styles.register} onPress={() => {router.push('./register')}}> Register Now</Text>
                 </Text>
             </View>
         </View>
