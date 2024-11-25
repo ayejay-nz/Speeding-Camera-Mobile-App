@@ -13,6 +13,9 @@ const EntryScreen = () => {
                     style={styles.linearGradient}
                 >
                     <Text style={styles.header}>App Name</Text>
+                    <Pressable onPress={() => router.push('.././maps')}>
+                        <Text>Maps</Text>
+                    </Pressable>
                 </LinearGradient>
                 <Image style={styles.backgroundImage} source={require('../../assets/images/background_image_1.jpeg')} />
             </View>

@@ -34,6 +34,7 @@ export default function RootLayout() {
       <Stack screenOptions={{ headerShown: false }}>
         <Stack.Screen name="index" options={{ animationTypeForReplace: 'push', animation: 'slide_from_left'  }} />
         <Stack.Screen name="(entry)" />
+        <Stack.Screen name="(tabs)" />
         <Stack.Screen name="+not-found" />
       </Stack>
       <StatusBar style="auto" />
