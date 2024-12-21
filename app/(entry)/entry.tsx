@@ -16,6 +16,10 @@ const EntryScreen = () => {
                     <Pressable onPress={() => router.push('.././maps')}>
                         <Text>Maps</Text>
                     </Pressable>
+                    
+                    <Pressable onPress={() => router.push('.././settings')}>
+                        <Text>Settings</Text>
+                    </Pressable>
                 </LinearGradient>
                 <Image style={styles.backgroundImage} source={require('../../assets/images/background_image_1.jpeg')} />
             </View>
